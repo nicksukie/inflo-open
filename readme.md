@@ -4,6 +4,6 @@ The manuscript on the keyphrase extraction mechanism can be found [here](https:/
 
 A demo of the keyphrase extractor (static) can be found [here](https://nicksukie.github.io/inflo/cat-keyphrase-labeling-demo.html).
 
-A demo of the platform Ui can be seen [here](https://nicksukie.github.io/inflo/mainfeed_v22-demo_v3.html).
+A demo of the platform UI can be seen [here](https://nicksukie.github.io/inflo/mainfeed_v22-demo_v3.html).
 
 A video overview of the platform functionality can be found [here](https://youtu.be/f84mIVltoqo).
