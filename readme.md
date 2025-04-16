@@ -6,4 +6,4 @@ A demo of the keyphrase extractor (static) can be found [here](https://nicksukie
 
 A demo of the platform Ui can be seen [here](https://nicksukie.github.io/inflo/mainfeed_v22-demo_v3.html).
 
-A video overview of the platform can be found [here](https://youtu.be/f84mIVltoqo).
+A video overview of the platform functionality can be found [here](https://youtu.be/f84mIVltoqo).
